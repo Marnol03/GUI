@@ -1,6 +1,18 @@
 # Anforderungen
-## To be done
+### How to start
+- you can start the interface by exécuting
+```bash
+python userInterface.py
+```
+or
+```bash
+python3 userInterface.py
+```
+depending off your version
 
+- After you can use a user identification in passwords.text to log in
+
+## info
 1.__Login__ :
  
 - ein IU wo der Nutzer sich einloggen kann
