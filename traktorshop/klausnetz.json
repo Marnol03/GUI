@@ -1,0 +1,42 @@
+{
+  "Francois": {
+    "name": "Francois",
+    "budget": 3701573.76,
+    "index": 0
+  },
+  "Birgit": {
+    "name": "Birgit",
+    "budget": 7000000,
+    "index": 0
+  },
+  "Lukas": {
+    "name": "Lukas",
+    "budget": 1010748.22,
+    "index": 0
+  },
+  "Sandra": {
+    "name": "Sandra",
+    "budget": 750000,
+    "index": 0
+  },
+  "Chris": {
+    "name": "Chris",
+    "budget": 900000,
+    "index": 0
+  },
+  "Francesco": {
+    "name": "Francesco",
+    "budget": 1900000,
+    "index": 0
+  },
+  "Mette": {
+    "name": "Mette",
+    "budget": 2750000,
+    "index": 0
+  },
+  "Alejandro": {
+    "name": "Alejandro",
+    "budget": 1415352.3599999999,
+    "index": 0
+  }
+}

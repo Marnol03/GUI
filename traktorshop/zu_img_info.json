@@ -1,0 +1,74 @@
+[
+  {
+    "menge": 95,"typ": "Pflug_1", "kompat": "Fuer:John Deere, Fendt, Class, New Holland, Steyr, JCB", "price": "1080\u20ac"
+  },
+  {
+    "menge": 42,"typ": "Pflug_2", "kompat": "Fuer:John Deere, Fendt, Class, New Holland, Steyr, JCB", "price": "3535\u20ac"
+  },
+  {
+    "menge": 12,"typ": "Mulcher_1", "kompat": "Fuer:New Holland, Valtra, Deutz, JCB", "price": "3815\u20ac"
+  },
+  {
+    "menge": 78,"typ": "Mulcher_2", "kompat": "Fuer:Valtra, Lindner, Class, New Holland, John deere, Fendt, Deutz, JCB", "price": "4690\u20ac"
+  },
+  {
+    "menge": 74,"typ": "Bodenfraese_1", "kompat": "Fuer:Claas, Steyr, John Deere, Deutz, Fendt, Valtra, Kubota, New Holland", "price": "2075\u20ac"
+  },
+  {
+    "menge": 38,"typ": "Bodenfraese_2", "kompat": "Fuer:John Deere, Lindner, Valtra, Claas, Steyr, Deutz, JCB", "price": "2475\u20ac"
+  },
+  {
+    "menge": 32,"typ": "Maehwerk_1", "kompat": "Fuer:Fendt, Claas, John Deere, Steyr, Deutz, Kubota, New Holland, JCB", "price": "2175\u20ac"
+  },
+  {
+    "menge": 22,"typ": "Maehwerk_2", "kompat": "Fuer:Fendt, Claas, John Deere, Steyr, Deutz, Kubota, New Holland, Massey Ferguson, Valtra", "price": "3790\u20ac"
+  },
+  {
+    "menge": 12,"typ": "Heuwender_1", "kompat": "kFuer:Deutz, Claas, Fendt", "price": "3790\u20ac"
+  },
+  {
+    "menge": 4,"typ": "Heuwender_2", "kompat": "Fuer:Claas, Johne Deere, Kubota, JCB,Steyr, New Holland", "price": "2950\u20ac"
+  },
+  {
+    "menge": 2,"typ": "Heuwender_3", "kompat": "Fuer:Massey Ferguson, John Deere, Fendt, Deutz, Claas, New Holland, JCB", "price": "2265\u20ac"
+  },
+  {
+    "menge": 28,"typ": "Kartoffelhaeufler_1", "kompat": "Fuer,:Deutz, John Deere, New Holland, Claas, Massey Ferguson", "price": "665\u20ac"
+  },
+  {
+    "menge": 14,"typ": "Kartoffelhaeufler_2", "kompat": "Fuer:Massey Ferguson, John Deere, Fendt, Deutz, Claas, New Holland, JCB", "price": "1035\u20ac"
+  },
+  {
+    "menge": 12,"typ": "Ballenpresse_1", "kompat": "Fuer:Claas, John Deere, Kubota, Lindner", "price": "2740\u20ac"
+  },
+  {
+    "menge": 9,"typ": "Ballenpresse_2", "kompat": "Fuer:New Holland, Valtra, Deutz, JCB", "price": "3249\u20ac"
+  },
+  {
+    "menge": 8,"typ": "Ballenpresse_3", "kompat": "Fuer:John Deere, Deutz, Steyr", "price": "3789\u20ac"
+  },
+  {
+    "menge": 7,"typ": "Ballenpresse_4", "kompat": "Fuer:New Holland, JCB, Deutz, Claas, Steyr", "price": "2357\u20ac"
+  },
+  {
+    "menge": 9,"typ": "Wissenschleppe_1", "kompat": "Fuer:Claas, John Deere, Kubota, Lindner", "price": "2740\u20ac"
+  },
+    {
+    "menge": 8,"typ": "Wissenschleppe_2", "kompat": "Fuer:Claas, John Deere, Kubota, Lindner", "price": "2740\u20ac"
+  },
+   {
+    "menge": 5,"typ": "Wissenschleppe_2", "kompat": "Fuer:Claas, John Deere, Kubota, Lindner", "price": "2740\u20ac"
+  },
+  {
+    "menge": 12,"typ": "Wissenschleppe_1", "kompat": "Fuer:Claas, John Deere, Kubota, Lindner", "price": "2740\u20ac"
+  },
+    {
+    "menge": 15,"typ": "Wissenschleppe_2", "kompat": "Fuer:Claas, John Deere, Kubota, Lindner", "price": "2740\u20ac"
+  },
+  {
+    "menge": 13, "typ": "Wissenschleppe_2", "kompat": "Fuer:Claas, John Deere, Kubota, Lindner", "price": "2740\u20ac"
+  },
+   {
+    "menge": 5,"typ": "Wissenschleppe_2", "kompat": "Fuer:Claas, John Deere, Kubota, Lindner", "price": "2740\u20ac"
+  }
+]

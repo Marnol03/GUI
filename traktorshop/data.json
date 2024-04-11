@@ -1,0 +1,434 @@
+[
+  {
+    "menge": 6,
+    "typ": "Typ: Vario_1038",
+    "price": "367000\u20ac",
+    "hersteller": "Hersteller: Fendt",
+    "ps": "PS: 521",
+    "km": "Km/h: 60",
+    "baujahr": "Baujahr: 2015"
+  },
+  {
+    "menge": 2,
+    "typ": "Typ: Vario_828",
+    "price": "298000\u20ac",
+    "hersteller": "Hersteller: Fendt",
+    "ps": "PS: 395",
+    "km": "Km/h: 60",
+    "baujahr": "Baujahr: 2015"
+  },
+  {
+    "menge": 7,
+    "typ": "Typ: Vario_500",
+    "price": "171000\u20ac",
+    "hersteller": "Hersteller: Fendt",
+    "ps": "PS: 280",
+    "km": "Km/h: 60",
+    "baujahr": "Baujahr: 2016"
+  },
+  {
+    "menge": 0,
+    "typ": "Typ:Vario_1100",
+    "price": "98000\u20ac",
+    "hersteller": "Hersteller: Fendt",
+    "ps": "PS: 149",
+    "km": "Km/h: 50",
+    "baujahr": "Baujahr: 1999"
+  },
+  {
+    "menge": 3,
+    "typ": "Typ: Typ: 9R_RT",
+    "price": "388000\u20ac",
+    "hersteller": "Hersteller: Fendt",
+    "ps": "PS: 646",
+    "km": "Km/h: 40",
+    "baujahr": "Baujahr: 2017"
+  },
+  {
+    "menge": 1,
+    "typ": "Typ: 8030",
+    "price": "324000\u20ac",
+    "hersteller": "Hersteller: John Deere",
+    "ps": "PS: 620",
+    "km": "Km/h: 40",
+    "baujahr": "Baujahr: 2015"
+  },
+  {
+    "menge": 5,
+    "typ": "Typ: 7020",
+    "price": "299000\u20ac",
+    "hersteller": "Hersteller: John Deere",
+    "ps": "PS: 321",
+    "km": "Km/h: 65",
+    "baujahr": "Baujahr: 2013"
+  },
+  {
+    "menge": 1,
+    "typ": "Typ: 7R",
+    "price": "198000\u20ac",
+    "hersteller": "Hersteller: John Deere",
+    "ps": "PS: 200",
+    "km": "Km/h: 70",
+    "baujahr": "Baujahr: 2013"
+  },
+  {
+    "menge": 7,
+    "typ": "Typ: 9RX_640",
+    "price": "220000\u20ac",
+    "hersteller": "Hersteller: John Deere",
+    "ps": "PS: 340",
+    "km": "Km/h: 40",
+    "baujahr": "Baujahr: 2007"
+  },
+  {
+    "menge": 17,
+    "typ": "Typ: 9R_640",
+    "price": "524000\u20ac",
+    "hersteller": "Hersteller: John Deere",
+    "ps": "PS: 691",
+    "km": "Km/h: 50",
+    "baujahr": "Baujahr: 2016"
+  },
+  {
+    "menge": 8,
+    "typ": "Typ: 95E",
+    "price": "530000\u20ac",
+    "hersteller": "Hersteller: John Deere",
+    "ps": "PS: 691",
+    "km": "Km/h: 65",
+    "baujahr": "Baujahr: 2022"
+  },
+  {
+    "menge": 3,
+    "typ": "Typ: Xerion_5000",
+    "price": "145000\u20ac",
+    "hersteller": "Hersteller: Claas",
+    "ps": "PS: 416",
+    "km": "Km/h: 55",
+    "baujahr": "Baujahr: 2022"
+  },
+  {
+    "menge": 5,
+    "typ": "Typ: Axion_900",
+    "price": "220000\u20ac",
+    "hersteller": "Hersteller: Claas",
+    "ps": "PS: 530",
+    "km": "Km/h: 75",
+    "baujahr": "Baujahr: 2001"
+  },
+  {
+    "menge": 4,
+    "typ": "Typ: Axion_950",
+    "price": "289000\u20ac",
+    "hersteller": "Hersteller: Claas",
+    "ps": "PS: 440",
+    "km": "Km/h: 70",
+    "baujahr": "Baujahr: 2019"
+  },
+  {
+    "menge": 12,
+    "typ": "Typ: Axos_340_CX",
+    "price": "265000\u20ac",
+    "hersteller": "Hersteller: Claas",
+    "ps": "PS: 416",
+    "km": "Km/h: 74",
+    "baujahr": "Baujahr: 2021"
+  },
+  {
+    "menge": 9,
+    "typ": "Typ: 6300_Terrus_CVT",
+    "price": "172000\u20ac",
+    "hersteller": "Hersteller: Claas",
+    "ps": "PS: 102",
+    "km": "Km/h: 85",
+    "baujahr": "Baujahr: 2017"
+  },
+  {
+    "menge": 12,
+    "typ": "Typ: 6240_CVT",
+    "price": "202000\u20ac",
+    "hersteller": "Hersteller: Steyr",
+    "ps": "PS: 300",
+    "km": "Km/h: 50",
+    "baujahr": "Baujahr: 2011"
+  },
+  {
+    "menge": 8,
+    "typ": "Typ: Profi_6000",
+    "price": "172000\u20ac",
+    "hersteller": "Hersteller: Steyr",
+    "ps": "PS: 241",
+    "km": "Km/h: 50",
+    "baujahr": "Baujahr: 2018"
+  },
+  {
+    "menge": 7,
+    "typ": "Typ: Multi_4120",
+    "price": "160000\u20ac",
+    "hersteller": "Hersteller: Steyr",
+    "ps": "PS: 145",
+    "km": "Km/h: 55",
+    "baujahr": "Baujahr: 2014"
+  },
+  {
+    "menge": 8,
+    "typ": "Typ: AgroXXL_1630",
+    "price": "187000\u20ac",
+    "hersteller": "Hersteller: Steyr",
+    "ps": "PS: 117",
+    "km": "Km/h: 72",
+    "baujahr": "Baujahr: 2016"
+  },
+  {
+    "menge": 4,
+    "typ": "Typ: 11440_TTV",
+    "price": "223000\u20ac",
+    "hersteller": "Hersteller: Deutz",
+    "ps": "PS: 598",
+    "km": "Km/h: 45",
+    "baujahr": "Baujahr: 2021"
+  },
+  {
+    "menge": 3,
+    "typ": "Typ: 9340_TTV_Warrior",
+    "price": "245000\u20ac",
+    "hersteller": "Hersteller: Deutz",
+    "ps": "PS: 401",
+    "km": "Km/h: 75",
+    "baujahr": "Baujahr: 2012"
+  },
+  {
+    "menge": 5,
+    "typ": "Typ: Agroton_TTV_7250",
+    "price": "279000\u20ac",
+    "hersteller": "Hersteller: Deutz",
+    "ps": "PS: 336",
+    "km": "Km/h: 65",
+    "baujahr": "Baujahr: 2021"
+  },
+  {
+    "menge": 1,
+    "typ": "Typ: Agroton_M_600",
+    "price": "19500\u20ac",
+    "hersteller": "Hersteller: Deutz",
+    "ps": "PS: 245",
+    "km": "Km/h: 70",
+    "baujahr": "Baujahr: 2017"
+  },
+  {
+    "menge": 4,
+    "typ": "Typ: 8330",
+    "price": "175000\u20ac",
+    "hersteller": "Hersteller: Deutz",
+    "ps": "PS: 183",
+    "km": "Km/h: 65",
+    "baujahr": "Baujahr: 2014"
+  },
+  {
+    "menge": 2,
+    "typ": "Typ: 7270",
+    "price": "150000\u20ac",
+    "hersteller": "Hersteller: JCB",
+    "ps": "PS: 348",
+    "km": "Km/h: 55",
+    "baujahr": "Baujahr: 2013"
+  },
+  {
+    "menge": 10,
+    "typ": "Typ: 3220_plus",
+    "price": "1240008\u20ac",
+    "hersteller": "Hersteller: JCB",
+    "ps": "PS: 260",
+    "km": "Km/h: 70",
+    "baujahr": "Baujahr: 2016"
+  },
+  {
+    "menge": 12,
+    "typ": "Typ: 8280",
+    "price": "95000\u20ac",
+    "hersteller": "Hersteller: JCB",
+    "ps": "PS: 223",
+    "km": "Km/h: 45",
+    "baujahr": "Baujahr: 2011"
+  },
+  {
+    "menge": 2,
+    "typ": "Typ: T6_180",
+    "price": "125000\u20ac",
+    "hersteller": "Hersteller: JCB",
+    "ps": "PS: 280",
+    "km": "Km/h: 65",
+    "baujahr": "Baujahr: 2009"
+  },
+  {
+    "menge": 6,
+    "typ": "Typ: T7_Heavy_Duty",
+    "price": "144000\u20ac",
+    "hersteller": "Hersteller: New Holland",
+    "ps": "PS: 175",
+    "km": "Km/h: 40",
+    "baujahr": "Baujahr: 2014"
+  },
+  {
+    "menge": 14,
+    "typ": "Typ: T5_120",
+    "price": "345000\u20ac",
+    "hersteller": "Hersteller: New Holland",
+    "ps": "PS: 273",
+    "km": "Km/h: 55",
+    "baujahr": "Baujahr: 2020"
+  },
+  {
+    "menge": 22,
+    "typ": "Typ: T9",
+    "price": "300000\u20ac",
+    "hersteller": "Hersteller: New Holland",
+    "ps": "PS: 120",
+    "km": "Km/h: 60",
+    "baujahr": "Baujahr: 2019"
+  },
+  {
+    "menge": 2,
+    "typ": "Typ: T8",
+    "price": "130000\u20ac",
+    "hersteller": "Hersteller: New Holland",
+    "ps": "PS: 669",
+    "km": "Km/h: 45",
+    "baujahr": "Baujahr: 2022"
+  },
+  {
+    "menge": 6,
+    "typ": "Typ: A85",
+    "price": "275000\u20ac",
+    "hersteller": "Hersteller: New Holland",
+    "ps": "PS: 419",
+    "km": "Km/h: 50",
+    "baujahr": "Baujahr: 2016"
+  },
+  {
+    "menge": 4,
+    "typ": "Typ: S294",
+    "price": "290000\u20ac",
+    "hersteller": "Hersteller: Valtra",
+    "ps": "PS: 85",
+    "km": "Km/h: 64",
+    "baujahr": "Baujahr: 2015"
+  },
+  {
+    "menge": 7,
+    "typ": "Typ: S394",
+    "price": "175000\u20ac",
+    "hersteller": "Hersteller: Valtra",
+    "ps": "PS: 325",
+    "km": "Km/h: 76",
+    "baujahr": "Baujahr: 2018"
+  },
+  {
+    "menge": 3,
+    "typ": "Typ: MF135",
+    "price": "89000\u20ac",
+    "hersteller": "Hersteller: Valtra",
+    "ps": "PS: 408",
+    "km": "Km/h: 75",
+    "baujahr": "Baujahr: 2018"
+  },
+  {
+    "menge": 8,
+    "typ": "Typ: M7003",
+    "price": "150000\u20ac",
+    "hersteller": "Hersteller: Kubota",
+    "ps": "PS: 143",
+    "km": "Km/h: 70",
+    "baujahr": "Baujahr: 2017"
+  },
+  {
+    "menge": 2,
+    "typ": "Typ: MF_8400",
+    "price": "120000\u20ac\u20ac",
+    "hersteller": "Hersteller: Kubota",
+    "ps": "PS: 95",
+    "km": "Km/h: 40",
+    "baujahr": "Baujahr: 2016"
+  },
+  {
+    "menge": 7,
+    "typ": "Typ: MF_5713M",
+    "price": "140000\u20ac",
+    "hersteller": "Hersteller: Kubota",
+    "ps": "PS: 176",
+    "km": "Km/h: 66",
+    "baujahr": "Baujahr: 2020"
+  },
+  {
+    "menge": 3,
+    "typ": "Typ: Lintrac_90",
+    "price": "132000\u20ac",
+    "hersteller": "Hersteller: Massey Ferguson",
+    "ps": "PS: 315",
+    "km": "Km/h: 70",
+    "baujahr": "Baujahr: 2007"
+  },
+  {
+    "menge": 4,
+    "typ": "Typ: Lintrac_95_LS_Alpin",
+    "price": "110000",
+    "hersteller": "Hersteller: Massey Ferguson",
+    "ps": "PS: 135",
+    "km": "Km/h: 59",
+    "baujahr": "2020: baujahr"
+  },
+  {
+    "menge": 16,
+    "typ": "Typ: Lintrac_130",
+    "price": "220000\u20ac",
+    "hersteller": "Hersteller: Lindner",
+    "ps": "PS: 102",
+    "km": "Km/h: 42",
+    "baujahr": "Baujahr: 2021"
+  },
+  {
+    "menge": 11,
+    "typ": "Typ: Lintrac_130",
+    "price": "250000\u20ac",
+    "hersteller": "Hersteller: Lindner",
+    "ps": "PS: 102",
+    "km": "Km/h: 68",
+    "baujahr": "Baujahr: 2021"
+  },
+  {
+    "menge": 3,
+    "typ": "Typ: Lintrac_130",
+    "price": "543000\u20ac",
+    "hersteller": "Hersteller: Lindner",
+    "ps": "PS: 136",
+    "km": "Km/h: 70",
+    "baujahr": "Baujahr: 2021"
+  },
+  {
+    "menge": 3,
+    "typ": "Typ: Lintrac_130",
+    "price": "234000\u20ac",
+    "hersteller": "Hersteller: Lindner",
+    "ps": "PS: 137",
+    "km": "Km/h: 32",
+    "baujahr": "Baujahr: 2004"
+  },
+  {
+    "menge": 3,
+    "typ": "Typ: Lintrac_130",
+    "price": "123000\u20ac",
+    "hersteller": "Hersteller: Lindner",
+    "ps": "PS: 138",
+    "km": "Km/h: 67",
+    "baujahr": "Baujahr: 2021"
+  },
+  {
+    "menge": 3,
+    "typ": "Typ: Lintrac_130",
+    "price": "54490\u20ac",
+    "hersteller": "Hersteller: Lindner",
+    "ps": "PS: 139",
+    "km": "Km/h: 48",
+    "baujahr": "Baujahr: 2021"
+  }
+]
